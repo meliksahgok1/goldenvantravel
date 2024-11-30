@@ -1,0 +1,24 @@
+{
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "edit": "Edit",
+    "delete": "Delete",
+    "loading": "Loading...",
+    "search": "Search..."
+  },
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "booking": "Booking",
+    "contact": "Contact",
+    "admin": "Admin Panel"
+  },
+  "admin": {
+    "dashboard": "Dashboard",
+    "reservations": "Reservations",
+    "pages": "Pages",
+    "settings": "Settings",
+    "translations": "Translations"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "common": {
+    "save": "Kaydet",
+    "cancel": "İptal",
+    "edit": "Düzenle",
+    "delete": "Sil",
+    "loading": "Yükleniyor...",
+    "search": "Ara..."
+  },
+  "nav": {
+    "home": "Ana Sayfa",
+    "services": "Hizmetler",
+    "booking": "Rezervasyon",
+    "contact": "İletişim",
+    "admin": "Yönetim Paneli"
+  },
+  "admin": {
+    "dashboard": "Kontrol Paneli",
+    "reservations": "Rezervasyonlar",
+    "pages": "Sayfalar",
+    "settings": "Ayarlar",
+    "translations": "Çeviriler"
+  }
+}
